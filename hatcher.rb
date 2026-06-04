@@ -1,8 +1,8 @@
 class Hatcher < Formula
   desc "🥇 Git worktree management tool that hatches AI-powered development environments"
   homepage "https://github.com/keishimizu26629/hatcher"
-  url "https://github.com/keishimizu26629/hatcher/archive/v1.2.8.tar.gz"
-  sha256 "607eeba60daefb7cb00bd6ee337c3f1c9d41c21d4375e8670730ed0c4d27e2b7"
+  url "https://github.com/keishimizu26629/hatcher/archive/v1.2.9.tar.gz"
+  sha256 "c08967985c799779b4fe58b2ad9ca41d17e43fba12cd2699c3601d6a912a6ce9"
   license "MIT"
   head "https://github.com/keishimizu26629/hatcher.git", branch: "main"
 
